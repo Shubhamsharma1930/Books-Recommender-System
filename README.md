@@ -16,7 +16,7 @@
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n books python=3.7.10 -y
+conda create -n books python=3.7.16 -y
 ```
 
 ```bash
